@@ -32,7 +32,7 @@ The BST in this application manages a dictionary of key-value pairs of student i
 - All Interaction is done through the GUI, and all output is shown on cmd & on the status bar on the app's footer, besides the BFS Travese output which is shown only on the cmd due it's length. 
 
 - Instead of manipulating each operation separatly directly via the graphical user interface, you could alternatively upload a script input file :page_facing_up:. The format the script file is a separate line for each command. See [Input File Example](InputFileExample.txt) for a demo input file. 
-The command interpreter is case in-sensitive so you could type either *Preorder* or either *preorder*. Some commands accept no arguments, other one arguments and other two arguments, here is the entire list of commands which are accetable in a script input file: 
+The command interpreter is case in-sensitive so you could for example type either *Preorder* or *preorder*. Some commands accept no arguments, other only one argument and other two arguments, here is the entire list of commands which are allowed in a script input file, associated with their arguments (argument type & whether the argument is mandatory or not):
 
 |    Command     |        Argument1        |        Argument2        |
 |----------------|-------------------------|-------------------------|
@@ -53,6 +53,4 @@ The command interpreter is case in-sensitive so you could type either *Preorder*
 
 ## Log Output Sample
 ![Cmd output](Screenshots/CLI-Output-Log.png)
-
-
 
