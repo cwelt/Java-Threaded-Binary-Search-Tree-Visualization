@@ -1,0 +1,19 @@
+Insert 100 Chanan Welt
+insert 50 
+insert 200
+insert 30
+insert 75
+median
+insert 120
+Search 30
+inorder
+maxmimum
+delete 200 
+maximum
+predecessor 75
+predecessor 30
+insert 1 
+minimum
+successor 1 
+delete 100
+median 
