@@ -54,3 +54,6 @@ The command interpreter is case in-sensitive so you could for example type eithe
 ## Log Output Sample
 ![Cmd output](Screenshots/CLI-Output-Log.png)
 
+## UML Class Diagram 
+![UML Class Diagram](UML.png)
+
